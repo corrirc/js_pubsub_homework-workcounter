@@ -1,5 +1,5 @@
-const InputView = require("./views/input_view.js");
-const ResultView = require('./views/result_view.js');
+const InputView = require("./views/inputview.js");
+const ResultView = require('./views/resultview.js');
 
 document.addEventListener('DOMContentLoaded', () => {
   console.log('JavaScript Loaded');
